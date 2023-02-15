@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Calisthenics Website</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Exercises</a></li>
+          <li><a href="#">Training Programs</a></li>
+          <li><a href="#">Community Forum</a></li>
+          <li><a href="#">Gear Reviews</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <section id="hero">
+        <h1>Welcome to the Calisthenics Website</h1>
+        <p>Get strong, build muscle, and improve your overall fitness with bodyweight exercises.</p>
+        <a href="#" class="button">Get Started</a>
+      </section>
+      <section id="exercises">
+        <h2>Calisthenics Exercises</h2>
+        <p>Learn the proper form and technique for a variety of calisthenics exercises.</p>
+        <ul>
+          <li><a href="#">Push-Ups</a></li>
+          <li><a href="#">Pull-Ups</a></li>
+          <li><a href="#">Squats</a></li>
+          <li><a href="#">Lunges</a></li>
+          <li><a href="#">Planks</a></li>
+          <li><a href="#">And more...</a></li>
+        </ul>
+      </section>
+      <section id="training">
+        <h2>Training Programs</h2>
+        <p>Get started with one of our training programs designed for different fitness levels and goals.</p>
+        <ul>
+          <li><a href="#">Beginner Program</a></li>
+          <li><a href="#">Intermediate Program</a></li>
+          <li><a href="#">Advanced Program</a></li>
+        </ul>
+      </section>
+      <section id="community">
+        <h2>Community Forum</h2>
+        <p>Connect with other calisthenics enthusiasts, share your experiences, and get support.</p>
+        <a href="#" class="button">Join the Forum</a>
+      </section>
+      <section id="gear">
+        <h2>Gear Reviews</h2>
+        <p>Find out what the best calisthenics equipment and gear is for your training.</p>
+        <ul>
+          <li><a href="#">Pull-Up Bars</a></li>
+          <li><a href="#">Resistance Bands</a></li>
+          <li><a href="#">Gym Rings</a></li>
+          <li><a href="#">And more...</a></li>
+        </ul>
+      </section>
+    </main>
+    <footer>
+      <p>Copyright © 2023 Calisthenics Website</p>
+    </footer>
+  </body>
+</html>
